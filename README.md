@@ -1,11 +1,10 @@
 # 🎓 Maincraft Data Analysis (SQL) - Internship
 
-![img_1.png](img_1.png)
-
 ## 📋 Project Overview
 
 This internship project focuses on **SQL database design, data manipulation, and advanced query analysis** using a comprehensive **Student Management System**. The project demonstrates practical SQL skills including database creation, table design, data insertion, and complex analytical queries on real-world student performance data.
 
+![img_1.png](img_1.png)
 ---
 
 ## 📁 Source Code
