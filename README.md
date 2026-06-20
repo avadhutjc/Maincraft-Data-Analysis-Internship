@@ -1,4 +1,4 @@
-# 🎓 Maincraft Data Analysis (SQL) - Internship
+## 🎓 Maincraft Data Analysis (SQL) - Internship
 
 ## 📋 Project Overview
 
