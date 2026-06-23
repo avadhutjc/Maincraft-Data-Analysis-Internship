@@ -306,11 +306,9 @@ This project reinforces:
 ├── 📄 README.md              ← Project documentation (this file)
 └── 📁 .git                   ← Version control history
 ```
-
 ---
 
 **Project Type:** 🏫 Educational | Data Analysis | SQL Development  
 **Status:** ✅ Complete  
 **Last Updated:** 2026  
-**Internship Program:** Maincraft Data Analysis with SQL  
-
+**Internship Program:** Maincraft Data Analysis with SQL
