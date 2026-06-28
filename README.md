@@ -312,5 +312,4 @@ This project reinforces:
 **Project Type:** 🏫 Educational | Data Analysis | SQL Development  
 **Status:** ✅ Complete  
 **Last Updated:** 2026  
-**Internship Program:** Maincraft Data Analysis with SQL  
-
+**Internship Program:** Maincraft Data Analysis with SQL
