@@ -9,7 +9,7 @@ This internship project focuses on **SQL database design, data manipulation, and
 
 ## 📁 Source Code
 
-### 🔧 Main Query File: `Query console.sql`
+### 🔧 Main Query File: `Query Console Task 1.sql`
 
 This is the **core file** containing all database operations and SQL queries for the Student Management System. The file is organised into three main sections:
 
@@ -272,13 +272,13 @@ This project can be extended for:
 This file contains database & table creation, insert & alter statements and multiple working queries on the created StudentManagement database.
 ```
 - **Impact:** Core functionality - contains all database setup and queries
-- **Changes:** Complete Query console.sql with 7 analytical queries
+- **Changes:** Complete Query Console Task 1.sql with 7 analytical queries
 ---
 
 ## 🚀 Getting Started
 
 1. **Open the SQL console/IDE** (DBeaver, MySQL Workbench, or any SQL client)
-2. **Execute the `Query console.sql` file** step by step
+2. **Execute the `Query Console Task 1.sql` file** step by step
 3. **Follow the three main sections:**
     - Database and table creation
     - Data insertion
@@ -302,7 +302,7 @@ This project reinforces:
 
 ```
 📦 Maincraft-Data-Analysis-Internship
-├── 📄 Query console.sql      ← Main SQL script (124 lines)
+├── 📄 Query Console Task 1.sql      ← Main SQL script (124 lines)
 ├── 📄 README.md              ← Project documentation (this file)
 └── 📁 .git                   ← Version control history
 ```
