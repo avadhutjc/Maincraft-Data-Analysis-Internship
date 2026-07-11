@@ -1,6 +1,8 @@
 # Maincraft Data Analysis Internship - Task 2
 
 ## Overview
+<img width="942" height="601" alt="task2_problem_stmt" src="https://github.com/user-attachments/assets/ed13f16e-8c29-4cd0-9ca6-f668c566dfb7" />
+
 This README documents **Task 2** using only:
 - `Query Console Task 2.sql`
 
@@ -63,17 +65,17 @@ GROUP BY s.name, e.grade;
 ### Screenshot 1 - Q1 Result
 ![Task2 Screenshot 1](https://github.com/user-attachments/assets/23311656-223a-486d-a91e-ae60be6829ec)
 
-### Screenshot 2 - Task 2 Result
+### Screenshot 2 - Q2 Result
 ![Task2 Screenshot 2](https://github.com/user-attachments/assets/57c90ba6-26a6-4f2b-b417-2d889471083f)
 
-### Screenshot 3 - Task 2 Result
+### Screenshot 3 - Q3 Result
 ![Task2 Screenshot 3](https://github.com/user-attachments/assets/10254c82-999a-4acf-a9e3-3af7338d39f4)
 
-### Screenshot 4 - Task 2 Result
+### Screenshot 4 - Q4 Result
 ![Task2 Screenshot 4](https://github.com/user-attachments/assets/2d84a48f-91f4-4758-9a20-27bd1a847167)
 
 ## How to Run
-1. Open MySQL client / SQL IDE.
+1. Open a MySQL client / SQL IDE.
 2. Run `Query Console Task 2.sql`.
 3. Execute Q1 to Q4 and compare outputs with screenshots.
 
