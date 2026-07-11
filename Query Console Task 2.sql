@@ -1,7 +1,4 @@
--- 1. Database Setup:
-CREATE DATABASE StudentManagement;
-
-SELECT DATABASE();
+-- 1. Database Setup task 2:
 
 USE StudentManagement;
 
@@ -63,7 +60,6 @@ FROM enrollments e
          JOIN courses c ON e.c_id = c.course_id
 GROUP BY c.name;
 
-
 -- Q3. Find top 3 students overall.
 SELECT s.name, ROUND(AVG(e.grade), 2) AS avg_grade
 FROM enrollments e
@@ -72,10 +68,7 @@ GROUP BY s.name
 ORDER BY avg_grade DESC
 LIMIT 3;
 
-
 -- Q4. Count students who failed (grade < 40).
-SELECT s.name, e.grade, COALESCE(count(s.student_id), 0) AS fail_stud_count
+SELECT COUNT(e.stud_id) AS fail_stud_count
 FROM enrollments e
-         JOIN students s ON s.student_id = e.stud_id
-WHERE e.grade < 40
-GROUP BY s.name, e.grade;
+WHERE e.grade < 40;
